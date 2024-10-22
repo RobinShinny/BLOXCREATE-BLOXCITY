@@ -1,2 +1,3 @@
 # BLOXCREATE-BLOXCITY
 I'd like to say and I'm sure if you replace the vendors it will be fine there issue with the vendors idk why so . so first do this get Roblox Laravel vendors and replace it with bloxcity should fully function! also there something with the migration IDK EVEN KNOW WHY....
+JUST INCASE if whtepony delete's it we have an extra here
